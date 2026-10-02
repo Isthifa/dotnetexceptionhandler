@@ -1,0 +1,15 @@
+# Build output
+[Bb]in/
+[Oo]bj/
+TestResults/
+
+# IDE and user files
+.vs/
+.vscode/
+*.user
+*.suo
+*.userosscache
+
+# NuGet packages
+*.nupkg
+*.snupkg

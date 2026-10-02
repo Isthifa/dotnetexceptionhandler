@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Isthifa.AspNetCore.ExceptionHandling", "src\Isthifa.AspNetCore.ExceptionHandling\Isthifa.AspNetCore.ExceptionHandling.csproj", "{76745B67-698C-4F6E-9F4D-51D97192B215}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Isthifa.AspNetCore.ExceptionHandling.Tests", "tests\Isthifa.AspNetCore.ExceptionHandling.Tests\Isthifa.AspNetCore.ExceptionHandling.Tests.csproj", "{1C5C3FA5-602F-4535-9F7A-8BACFC90E88F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{76745B67-698C-4F6E-9F4D-51D97192B215}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76745B67-698C-4F6E-9F4D-51D97192B215}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76745B67-698C-4F6E-9F4D-51D97192B215}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76745B67-698C-4F6E-9F4D-51D97192B215}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C5C3FA5-602F-4535-9F7A-8BACFC90E88F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C5C3FA5-602F-4535-9F7A-8BACFC90E88F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C5C3FA5-602F-4535-9F7A-8BACFC90E88F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C5C3FA5-602F-4535-9F7A-8BACFC90E88F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
